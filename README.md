@@ -13,9 +13,13 @@ Desafio de projeto da DIO - GitHub/Git
 
 2. **git status**: Verifica se há pastas não commitadas e as lista
 
-3. **git add**: Commita os arquivos/pastas selecionadas 
+3. **git add**: add os arquivos/pastas selecionadas para serem commitados
+
+4. **git commit -m "mensagem"**: Commita os arquivos selecionados anteriormente
 
    Se colocar "." irá Commitar todos os arquivos
+
+   
 
 4. **git push origin main**: Da um push nos arquivos para o repositório 
 
